@@ -1,4 +1,4 @@
-input_file = "/home/sahil/Desktop/advent-of-code-2025/day1_part1_input.txt"
+input_file = "./part1_input.txt"
 
 with open(input_file,'r') as file:
     rotations = file.readlines()
